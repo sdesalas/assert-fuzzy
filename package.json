@@ -1,0 +1,24 @@
+{
+  "name": "assert-fuzzy",
+  "version": "1.0.0",
+  "description": "Fuzzy logic assertions for nodejs `assert`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdesalas/assert-fuzzy.git"
+  },
+  "keywords": [
+    "fuzzy",
+    "logic",
+    "assert"
+  ],
+  "author": "Steven de Salas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdesalas/assert-fuzzy/issues"
+  },
+  "homepage": "https://github.com/sdesalas/assert-fuzzy#readme"
+}
