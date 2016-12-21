@@ -19,4 +19,10 @@ describe('class Thermometer', function() {
   });
 });
 
+describe('class Barometer', function() {
+  it('#getPressure()', function() {
+    assert.between(Barometer.getATM(), 0.9, 1.1); // its around 1 atmospheric unit of pressure in the room
+  });
+});
+
 ```
